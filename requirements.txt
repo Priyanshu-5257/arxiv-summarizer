@@ -1,0 +1,6 @@
+ requests==2.26.0
+PyPDF2==1.26.0
+python-dotenv==0.18.0
+docx==0.8.11
+google==3.0.0
+langchain==0.5.0
